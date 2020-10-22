@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "keyboard",
+      "price": 200
+    },
+    {
+      "id": 2,
+      "name": "mouse",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "name": "monitor",
+      "price": 1000
+    },
+    {
+      "id": 4,
+      "name": "motherboard",
+      "price": 4000
+    },
+    {
+      "id": 5,
+      "name": "processor",
+      "price": 20000
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "jesan",
+      "email": "asd@gmail.com",
+      "pass": "1234"
+    }
+  ]
+}
